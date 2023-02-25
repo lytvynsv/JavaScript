@@ -19,3 +19,4 @@ if(secondNumber > 0) {
 
 alert("Sum is" + " " + (Number(firstNumber) + Number(secondNumber)))
 alert("Product is" + " " + (firstNumber * secondNumber))
+
