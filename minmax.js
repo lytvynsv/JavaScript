@@ -38,5 +38,5 @@ const num = [
 const minNumber = getMinNumber (num);
 const maxNumber = getMaxNumber (num);
 
-alert('Min number is ' +  minNumber);
-alert('Max number is ' + maxNumber);
+alert("Min number is" + " " +  minNumber);
+alert("Max number is" + " " + maxNumber);
